@@ -16,7 +16,7 @@ An alternative to Three.js
             }
         `
     })
-    g.flush(buf.color())
+    g.flush(buf)
 ```
 
 Examples:\
@@ -90,6 +90,6 @@ Examples:\
     |
     [Video](https://github.com/lucasdomanico/gkit-examples/blob/main/video_test/main.ts)
 
-## Watch [Videos](https://www.instagram.com/beatmemoart)
+## [YouTube Video](https://www.instagram.com/beatmemoart)
 
 © 2025 - Lucas Domanico
