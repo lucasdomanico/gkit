@@ -1,9 +1,8 @@
 # GKit
 
+An alternative Web graphics kit
 
-An alternative to Three.js
-
-## [API](https://lucasdomanico.github.io/gkit/classes/types.GFX.html) Docs
+[API](https://lucasdomanico.github.io/gkit/classes/types.GFX.html) Docs
 
 ```ts
     import { gfx } from './gkit/'
@@ -90,6 +89,6 @@ Examples:\
     |
     [Video](https://github.com/lucasdomanico/gkit-examples/blob/main/video_test/main.ts)
 
-## [YouTube Video](https://www.instagram.com/beatmemoart)
+[YouTube Video](https://www.instagram.com/beatmemoart)
 
 © 2025 - Lucas Domanico
