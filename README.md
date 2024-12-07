@@ -2,17 +2,9 @@
 
 An alternative Web graphics kit
 
-![image](https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/arwing/tile.png)
-
-
-<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/arwing/tile.png" alt="drawing" width="200"/>
-
-<video width="320" height="320" controls>
-  <source src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_10_john_horizon/9a93cf0e-c4f8-4364-b14b-bdf7b99a77f2.webm">
-</video>
-
-
 [API](https://lucasdomanico.github.io/gkit/classes/types.GFX.html) Docs
+
+
 
 Usage:
 ```ts
@@ -29,77 +21,75 @@ Usage:
     g.flush(buf)
 ```
 
-Examples:\
-    [Arwing](https://github.com/lucasdomanico/gkit-examples/blob/main/arwing/main.ts)
-    |
-    [Atlas](https://github.com/lucasdomanico/gkit-examples/blob/main/atlas/main.ts)
-    |
-    [Candlestick Park](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_0_candlestick/main.ts)
-    |
-    [Revolver](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_4_revolver/main.ts)
-    |
-    [Selfie](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_5_selfie/main.ts)
-    |
-    [Glasses](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_6_glasses/main.ts)
-    |
-    [Clock](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_7_clock/main.ts)
-    |
-    [Dali](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_8_dali/main.ts)
-    |
-    [PaulSlide](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_9_paulslide/main.ts)
-    |
-    [John Horizon](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_11_john_horizon_friendly/main.ts)
-    |
-    [Abbey Road](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_12_abbey_road/main.ts)
-    |
-    [George RGB Shift](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_13_george_rgbshift/main.ts)
-    |
-    [Paul Atlas](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_14_paul_altas/main.ts)
-    |
-    [BoomBox](https://github.com/lucasdomanico/gkit-examples/blob/main/boombox/main.ts)
-    |
-    [Bot](https://github.com/lucasdomanico/gkit-examples/blob/main/bot/main.ts)
-    |
-    [Drive](https://github.com/lucasdomanico/gkit-examples/blob/main/drive/main.ts)
-    |
-    [Droid](https://github.com/lucasdomanico/gkit-examples/blob/main/droid_shadow_reflect/main.ts)
-    |
-    [Ex Disp](https://github.com/lucasdomanico/gkit-examples/blob/main/ex_disp/main.ts)
-    |
-    [Ex FBM](https://github.com/lucasdomanico/gkit-examples/blob/main/ex_fmb/main.ts)
-    |
-    [Ex Junk](https://github.com/lucasdomanico/gkit-examples/blob/main/ex_junk/main.ts)
-    |
-    [Ex List](https://github.com/lucasdomanico/gkit-examples/blob/main/ex_list/main.ts)
-    |
-    [Ex Test](https://github.com/lucasdomanico/gkit-examples/blob/main/ex_test/main.ts)
-    |
-    [Frog](https://github.com/lucasdomanico/gkit-examples/blob/main/frog/main.ts)
-    |
-    [Helmet](https://github.com/lucasdomanico/gkit-examples/blob/main/helmet_bloom_fps_lib/main.ts)
-    |
-    [HMap](https://github.com/lucasdomanico/gkit-examples/blob/main/hmap/main.ts)
-    |
-    [InstanceOf](https://github.com/lucasdomanico/gkit-examples/blob/main/instanceof/main.ts)
-    |
-    [Loading](https://github.com/lucasdomanico/gkit-examples/blob/main/loading_4/main.ts)
-    |
-    [Mario](https://github.com/lucasdomanico/gkit-examples/blob/main/mario_metal/main.ts)
-    |
-    [MatCap](https://github.com/lucasdomanico/gkit-examples/blob/main/matcap/main.ts)
-    |
-    [Outline](https://github.com/lucasdomanico/gkit-examples/blob/main/outline/main.ts)
-    |
-    [Phoenix](https://github.com/lucasdomanico/gkit-examples/blob/main/phoenix/main.ts)
-    |
-    [Soldier](https://github.com/lucasdomanico/gkit-examples/blob/main/soldier/main.ts)
-    |
-    [Particles](https://github.com/lucasdomanico/gkit-examples/blob/main/stroke_emit/main.ts)
-    |
-    [Tokyo](https://github.com/lucasdomanico/gkit-examples/blob/main/tokyo/main.ts)
-    |
-    [Video](https://github.com/lucasdomanico/gkit-examples/blob/main/video_test/main.ts)
 
-[YouTube Video](https://www.instagram.com/beatmemoart)
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_0_candlestick/video.gif" width="300"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_0_candlestick/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_1_linda/video.gif" width="300"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_1_linda/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_2_martha/video.gif" width="300"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_2_martha/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_3_love/video.gif" width="300"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_3_love/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_4_revolver/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_4_revolver/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_5_selfie/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_5_selfie/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_6_glasses/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_6_glasses/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_7_clock/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_7_clock/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_8_dali/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_8_dali/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_9_paulslide/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_9_paulslide/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_11_john_horizon_friendly/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_11_john_horizon_friendly/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_12_abbey_road/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_12_abbey_road/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_13_george_rgbshift/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_13_george_rgbshift/main.ts)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_14_paul_altas/video.gif" width="200"/>
+
+[Source Code](https://github.com/lucasdomanico/gkit-examples/blob/main/beatles_14_paul_altas/main.ts)
+
 
 © 2025 - Lucas Domanico
