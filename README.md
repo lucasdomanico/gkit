@@ -1,4 +1,4 @@
-# Gkit
+# GKit
 
 
 An alternative to Three.js
