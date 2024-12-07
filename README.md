@@ -2,8 +2,19 @@
 
 An alternative Web graphics kit
 
+![image](https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/arwing/tile.png)
+
+
+<img src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/arwing/tile.png" alt="drawing" width="200"/>
+
+<video width="320" height="320" controls>
+  <source src="https://raw.githubusercontent.com/lucasdomanico/gkit-examples/refs/heads/main/beatles_10_john_horizon/9a93cf0e-c4f8-4364-b14b-bdf7b99a77f2.webm">
+</video>
+
+
 [API](https://lucasdomanico.github.io/gkit/classes/types.GFX.html) Docs
 
+Usage:
 ```ts
     import { gfx } from './gkit/gkit.js'
     let g = gfx(canvas)
