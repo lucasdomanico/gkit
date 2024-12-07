@@ -5,7 +5,7 @@ An alternative Web graphics kit
 [API](https://lucasdomanico.github.io/gkit/classes/types.GFX.html) Docs
 
 ```ts
-    import { gfx } from './gkit/'
+    import { gfx } from './gkit/gkit.js'
     let g = gfx(canvas)
     let buf = g.buffer()
     buf.draw({
