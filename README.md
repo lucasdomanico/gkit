@@ -2,9 +2,7 @@
 
 An alternative Web graphics kit
 
-[API](https://lucasdomanico.github.io/gkit/classes/types.GFX.html) Docs
-
-
+[API](https://lucasdomanico.github.io/gkit/functions/gfx.gfx.html) Docs
 
 Usage:
 ```ts
